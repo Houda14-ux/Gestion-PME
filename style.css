@@ -1,0 +1,24 @@
+h1 {
+    color: rgb(240, 47, 47);
+    text-align: center;
+}
+.th {
+    border: 1px solid blue;
+    text-align: center;
+}
+.form-employer {
+    width: 450px;
+    margin: auto;
+    border-radius: 3px;
+    color: aqua;
+    border: 1px solid;
+}
+
+.menue-element{
+        width: 40%;
+        float: left;
+        display: block;
+        position: relative;
+        padding: 10px;
+        text-align: center;
+}
